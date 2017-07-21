@@ -1,7 +1,7 @@
 id=Magisk-DNSCrypt
 name=DNSCrypt for Magisk
-version=1.0
-versionCode=10
+version=1.1
+versionCode=11
 author=TheRealMintd
 description=Installs DNSCrypt and configures it automatically
 template=4
