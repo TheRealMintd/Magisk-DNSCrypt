@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=Magisk-DNSCrypt
+name=DNSCrypt for Magisk
+version=1.0
+versionCode=10
+author=TheRealMintd
+description=Installs DNSCrypt and configures it automatically
 template=4
